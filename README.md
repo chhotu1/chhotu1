@@ -7,8 +7,13 @@
 
 - 🔭 I’m currently working on PixlerLab [Hadsup](https://hadsup.com/)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/https://github.com/chhotu1?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://github.com/chhotu1?tab=repositories" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chhotu-sow-74797318b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chhotu-sow-74797318b" height="30" width="40" /></a>
 </p>
 
@@ -20,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chhotu1&show_icons=true&locale=en" alt="chhotu1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chhotu1&" alt="chhotu1" /></p>
-
