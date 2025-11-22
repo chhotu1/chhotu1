@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chhotu1" alt="chhotu1" /></a> </p>
 
-- 🔭 I’m currently working on PixlerLab [Hadsup](https://hadsup.com/)
+- 🔭 I’m currently working on PixlerLab
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
