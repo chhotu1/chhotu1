@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Software Developer Chhotu Sow</h1>
+<h1 align="center">Hi 👋, I'm Software Developer</h1>
 <h3 align="center">As a passionate Full Stack Developer specializing in MEAN and MERN stacks, I excel in building dynamic web applications. With expertise in MongoDB, Express.js, AngularJS, React.js, and Node.js, I seamlessly integrate front-end and back-end technologies to create robust, user-friendly solutions that push the boundaries of innovation in web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhotu1&label=Profile%20views&color=0e75b6&style=flat" alt="chhotu1" /> </p>
